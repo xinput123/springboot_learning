@@ -1,11 +1,11 @@
 package xx;
 
-import com.xx.entity.UserBasic;
-import com.xx.server.UserServer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
+import xx.entity.UserBasic;
+import xx.server.UserServer;
 
 import java.util.List;
 

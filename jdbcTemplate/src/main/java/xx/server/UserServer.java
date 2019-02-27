@@ -1,9 +1,9 @@
 package xx.server;
 
-import com.xx.entity.UserBasic;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
+import xx.entity.UserBasic;
 
 import java.util.List;
 
